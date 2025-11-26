@@ -1,6 +1,8 @@
 program -resultant_force:
 output:
-
+    Enter the mass (m): 10
+    Enter the acceleration (a): 20
+    The resultant force is: 200.50
 
 program - apple_cost:
 output:
